@@ -1,2 +1,6 @@
 gyu
+<<<<<<< HEAD
 123214546hxzjkcbzmb
+=======
+gan ni na 
+>>>>>>> origin/master
